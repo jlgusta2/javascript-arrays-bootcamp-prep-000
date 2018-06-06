@@ -1,0 +1,1 @@
+function accessElementInArray(array, index)
